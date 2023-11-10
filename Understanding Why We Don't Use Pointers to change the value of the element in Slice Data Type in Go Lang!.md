@@ -18,4 +18,5 @@ Data Stru Which acts similarly to Slices(Reference type)
 
 
 Dev.to link :- https://dev.to/yashraj10/understanding-why-we-dont-use-pointers-to-change-the-value-of-the-element-in-slice-data-type-in-go-lang-32fi
+
 Hashnode link :- https://yash-raj.hashnode.dev/understanding-why-we-dont-use-pointers-to-change-the-value-of-the-element-in-slice-data-type-in-go-lang
